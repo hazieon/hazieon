@@ -3,35 +3,35 @@
 ☺ Since finishing studying Psychology at University, I have been teaching English abroad, aiming to inspire individuals and challenge my world perspective.
 I immersed myself in the culture and languages of in Japan, Korea and India. 
 
-However, along the way, I met programmers around the world who showed me how creative coding can be. 
-I discovered that, through solving real world problems, tech can have a **global impact**.
+**However, along the way, I met programmers around the world who showed me how creative coding can be. 
+I discovered that, through solving real world problems, tech can have a global impact**.
 
 This inspired me to start a new adventure with code and continue to broaden my horizons. I joined the School of Code's intensive, full time bootcamp which was a push into the deep end, learning a wide range of technologies, frameworks and languages. But beyond the tech skills, I developed core soft skills through Agile workflow and pair programming. In groups of 2-6, we built full stack projects in short sprints with tight deadlines. 
 
-With this valuable experience and knowledge under my belt, I plan to continue on this upward trajectory to make a leap into the field of tech!
-Check out my journey here on my GitHub profile :) ☺
+**With this valuable experience and knowledge under my belt, I plan to continue on this upward trajectory to make a leap into the field of tech!
+Check out my journey here on my GitHub profile :) Feel free to get in touch via Twitter / LinkedIn!** ☺
 
 
 ## 💻 Technologies & skills
 
-| Type | Technology |             
+| **Type**  | **Technology**  |             
 | ----------- | ----------- | 
-| Front End | HTML |   
+| **Front End** | HTML |   
 |          | CSS |    
 |          | JavaScript (ES6)|  
 |          | React.js |    
 
 
-| Type | Description |
+| **Type** | **Description** |
 | ----------- | ----------- |
-  | Back End | Node.js |
+  | **Back End** | Node.js |
 |            | PostgreSQL| 
 |            |   Heroku  | 
-| Deployment |   AWS  | 
+| **Deployment** |   AWS  | 
 |            |   Docker  | 
 |            |   CI/CD  | 
 
-OTHERS - 
+**OTHER - **
 Testing - Jest, Cypress
 Agile - Trello, Jira
 UX/UI design - Figma, Adobe Photoshop, 
@@ -39,16 +39,16 @@ Others - OOP Object Oriented Programming, Web sockets
 
 
 ## 📚 Currently Learning ...
-- Lots of practice of the above skills and technologies!!
+- **Lots of practice of the above skills and technologies!!**
 - MongoDB
 - React Native
 - Solidity (Ethereum smart contract)
 - Wordpress custom templates (general structure and PHP)
 - How to write clean code
-- Would LOVE to learn: Ruby, C#, Java, React Native
+- **Would LOVE to learn:** Ruby, C#, Java, React Native
 
 ## 💬 Ask me about 
-- My team's final project EngageMate ➡ https://engagemate.netlify.app/ 
+- **My team's final project EngageMate ➡ https://engagemate.netlify.app/ **
 - My side project Nandoku Kanji test quiz ➡ https://nandoku.netlify.app/
 - Why I made the big switch to tech
 - Life in Japan, Korea, India, around Europe
