@@ -13,24 +13,6 @@ Check out my journey here on my GitHub profile :) ☺
 
 
 ## 💻 Technologies & skills
--  HTML 5
--  CSS6
--  JavaScript (ES6)
--  React.js
--  Node.js
--  PostgreSQL
--  Heroku
--  Web sockets
--  AWS
--  Docker
--  Git & GitHub 
--  Testing (Jest, Cypress)
--  OOP (Object Oriented Programming)
--  CI/CD 
--  Trello, Jira
--  Figma, 
--  Adobe Photoshop, InDesign
--  Sony Vegas Pro
 
 | Type | Technology |
 | ----------- | ----------- |
@@ -39,7 +21,7 @@ Check out my journey here on my GitHub profile :) ☺
 |          | JavaScript (ES6)|
 |          | React.js |
 
-| Tech | Description |
+| Type | Description |
 | ----------- | ----------- |
 | Back End | Node.js |
 |            | PostgreSQL| 
@@ -48,7 +30,7 @@ Check out my journey here on my GitHub profile :) ☺
 |            |   Docker  | 
 |            |   CI/CD  | 
 
-| Other Tech | Description |
+| Other  | Description |
 | ----------- | ----------- |
 | Testing    |   Jest  | 
 |            |   Cypress  | 
@@ -58,6 +40,7 @@ Check out my journey here on my GitHub profile :) ☺
 |           |   Photoshop  |
 | Other     | OOP  |
 |           |   Web Sockets  | 
+|           |  Sony Vegas pro  | 
 
 
 
