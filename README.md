@@ -46,10 +46,24 @@ Check out my journey here on my GitHub profile :) ☺
 | Tech | Description |
 | ----------- | ----------- |
 | Front End | HTML |
-|            | CSS | 
-| Paragraph | Text |
-| Paragraph | Text |
-| Paragraph | Text |
+|          | CSS |
+|          | JavaScript (ES6)|
+|          | React.js |
+| Back End | Node.js |
+|            | PostgreSQL| 
+|            |   Heroku  | 
+| Deployment |   AWS  | 
+|            |   Docker  | 
+|            |   CI/CD  | 
+| Testing    |   Jest  | 
+|            |   Cypress  | 
+| Agile      |   Trello  | 
+|            |   Jira  | 
+| UX/UI design |   Figma  | 
+|           |   Photoshop  |
+| Other     | OOP  |
+|           |   Web Sockets  | 
+
 
 
 
