@@ -27,7 +27,7 @@ Check out my journey here on my GitHub profile :) Feel free to get in touch via 
   | **Back End** | Node.js |
 |            | PostgreSQL| 
 |            |   Heroku  | 
-| **Deployment** |   AWS  | 
+| **Other** |   AWS  | 
 |            |   Docker  | 
 |            |   CI/CD  | 
 
