@@ -14,13 +14,13 @@ Check out my journey here on my GitHub profile :) ☺
 
 ## 💻 Technologies & skills
 
-| Type | Technology |                           | Type | Description |             
-| ----------- | ----------- |                   | ----------- | ----------- |
-| Front End | HTML |                            | ----------- | ----------- |
-|          | CSS |                              |            | PostgreSQL|
-|          | JavaScript (ES6)|                  |            |   Heroku  |
-|          | React.js |                         |            |   Docker  | 
-                                                |            |   CI/CD  | 
+| Type | Technology |             
+| ----------- | ----------- | 
+| Front End | HTML |   
+|          | CSS |    
+|          | JavaScript (ES6)|  
+|          | React.js |    
+
 
 | Type | Description |
 | ----------- | ----------- |
@@ -42,9 +42,6 @@ Check out my journey here on my GitHub profile :) ☺
 | Other     | OOP  |
 |           |   Web Sockets  | 
 |           |  Sony Vegas pro  | 
-
-
-
 
 
 ## 📚 Currently Learning ...
