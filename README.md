@@ -32,29 +32,24 @@ Check out my journey here on my GitHub profile :) ☺
 -  Adobe Photoshop, InDesign
 -  Sony Vegas Pro
 
-| HTML5 | CSS6 |
-| JavaScript(ES6) | React.js |
-| Node.js | PostgreSQL |
-| Heroku | Docker | 
-| AWS | Web Sockets |
-| Git | GitHub |
-| Jest | Cypress |
-| OOP | CI/CD |
-| Trello | Jira |
-| Figma | Photoshop |
-
-| Tech | Description |
+| Type | Technology |
 | ----------- | ----------- |
 | Front End | HTML |
 |          | CSS |
 |          | JavaScript (ES6)|
 |          | React.js |
+
+| Tech | Description |
+| ----------- | ----------- |
 | Back End | Node.js |
 |            | PostgreSQL| 
 |            |   Heroku  | 
 | Deployment |   AWS  | 
 |            |   Docker  | 
 |            |   CI/CD  | 
+
+| Other Tech | Description |
+| ----------- | ----------- |
 | Testing    |   Jest  | 
 |            |   Cypress  | 
 | Agile      |   Trello  | 
