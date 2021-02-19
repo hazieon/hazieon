@@ -12,7 +12,7 @@ With this valuable experience and knowledge under my belt, I plan to continue on
 Check out my journey here on my GitHub profile :) ☺
 
 
-- 💻 Technologies & skills
+## 💻 Technologies & skills
 -  HTML 5
 -  CSS6
 -  JavaScript (ES6)
@@ -32,7 +32,20 @@ Check out my journey here on my GitHub profile :) ☺
 -  Adobe Photoshop, InDesign
 -  Sony Vegas Pro
 
-- 📚 Currently Learning ...
+| HTML5 | CSS6 |
+| JavaScript(ES6) | React.js |
+| Node.js | PostgreSQL |
+| Heroku | Docker | 
+| AWS | Web Sockets |
+| Git | GitHub |
+| Jest | Cypress |
+| OOP | CI/CD |
+| Trello | Jira |
+| Figma | Photoshop |
+
+
+
+## 📚 Currently Learning ...
 - Lots of practice of the above skills and technologies!!
 - MongoDB
 - React Native
@@ -41,13 +54,13 @@ Check out my journey here on my GitHub profile :) ☺
 - How to write clean code
 - Would LOVE to learn: Ruby, C#, Java, React Native
 
-- 💬 Ask me about 
+## 💬 Ask me about 
 - My team's final project EngageMate ➡ https://engagemate.netlify.app/ 
 - My side project Nandoku Kanji test quiz ➡ https://nandoku.netlify.app/
 - Why I made the big switch to tech
 - Life in Japan, Korea, India, around Europe
 
-- 🌎 Other interests
+## 🌎 Other interests
 - Languages! (Coding and Human languages!) Japanese, Korean, Chinese, German
 - Taekwondo!
 - Flute & Piano!
