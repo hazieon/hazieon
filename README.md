@@ -53,7 +53,7 @@ Others - OOP Object Oriented Programming, Web sockets
 - Why I made the big switch to tech
 - Life in Japan, Korea, India, around Europe
 
-![EngageMate](https://i.imgur.com/d6hqAmy.png)
+![EngageMate](https://i.imgur.com/d6hqAmy.png?1)
 
 ## 🌎 Other interests
 - Languages! (Coding and Human languages!) Japanese, Korean, Chinese, German
