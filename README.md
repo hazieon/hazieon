@@ -43,6 +43,15 @@ Check out my journey here on my GitHub profile :) ☺
 | Trello | Jira |
 | Figma | Photoshop |
 
+| Tech | Description |
+| ----------- | ----------- |
+| Front End | HTML |
+|            | CSS | 
+| Paragraph | Text |
+| Paragraph | Text |
+| Paragraph | Text |
+
+
 
 
 ## 📚 Currently Learning ...
