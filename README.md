@@ -31,17 +31,11 @@ Check out my journey here on my GitHub profile :) ☺
 |            |   Docker  | 
 |            |   CI/CD  | 
 
-| Other  | Description |
-| ----------- | ----------- |
-| Testing    |   Jest  | 
-|            |   Cypress  | 
-| Agile      |   Trello  | 
-|            |   Jira  | 
-| UX/UI design |   Figma  | 
-|           |   Photoshop  |
-| Other     | OOP  |
-|           |   Web Sockets  | 
-|           |  Sony Vegas pro  | 
+OTHERS - 
+Testing - Jest, Cypress
+Agile - Trello, Jira
+UX/UI design - Figma, Adobe Photoshop, 
+Others - OOP Object Oriented Programming, Web sockets
 
 
 ## 📚 Currently Learning ...
@@ -58,6 +52,8 @@ Check out my journey here on my GitHub profile :) ☺
 - My side project Nandoku Kanji test quiz ➡ https://nandoku.netlify.app/
 - Why I made the big switch to tech
 - Life in Japan, Korea, India, around Europe
+
+![EngageMate](https://imgur.com/d6hqAmy)
 
 ## 🌎 Other interests
 - Languages! (Coding and Human languages!) Japanese, Korean, Chinese, German
