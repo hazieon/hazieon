@@ -11,13 +11,13 @@ This inspired me to start a new adventure with code and continue to broaden my h
 Check out my journey here on my GitHub profile :) Feel free to get in touch via Twitter / LinkedIn!** ☺
 
 ## Currently working on
-- **Nandoku 難読漢字**  
-- Difficult Japanese Kanji reading quiz game - a full stack web app to get scored on your reading of Japanese/Chinese characters
-- **Vancation** 
-- Log your best campervan parking spots - a full stack app with Google maps API to discover & mark overnight parking spots
-- **Cryptomania** 
-- Track the trending cryptocurrency coins - A single page site pulling from an API to view current data on Bitcoin, ETH, etc.
-Practising and learning new technologies :) 
+- **Nandoku 難読漢字** Difficult Japanese Kanji reading quiz game 
+ a full stack web app to get scored on your reading of Japanese/Chinese characters
+- **Vancation** Log your best campervan parking spots 
+ a full stack app with Google maps API to discover & mark overnight parking spots
+- **Cryptomania** Track the trending cryptocurrency coins 
+A single page site pulling from an API to view current data on Bitcoin, ETH, etc.
+- Practising and learning new technologies :) 
 
 ## 💻 Technologies & skills
 
