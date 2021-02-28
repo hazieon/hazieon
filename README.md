@@ -1,16 +1,20 @@
 ### Hello World! 你好！ こんにちは！ 안녕하세요! Willkommen! 👋
 
-☺ Since finishing studying Psychology at University, I have been teaching English abroad, aiming to inspire individuals and challenge my world perspective.
-I immersed myself in the culture and languages of in Japan, Korea and India. 
+☺ Since finishing studying Psychology at University, I have been teaching English abroad, aiming to inspire individuals and challenge my world perspective. I immersed myself in the culture and languages of in Japan, Korea and India. 
 
 **However, along the way, I met programmers around the world who showed me how creative coding can be. 
 I discovered that, through solving real world problems, tech can have a global impact**.
 
-This inspired me to start a new adventure with code and continue to broaden my horizons. I joined the School of Code's intensive, full time bootcamp which was a push into the deep end, learning a wide range of technologies, frameworks and languages. But beyond the tech skills, I developed core soft skills through Agile workflow and pair programming. In groups of 2-6, we built full stack projects in short sprints with tight deadlines. 
+This inspired me to start a new adventure with code and continue to broaden my horizons. I joined the School of Code's intensive, full time bootcamp which was a push into the deep end of different technologies and core soft skills through Agile workflow and pair programming. 
 
 **With this valuable experience and knowledge under my belt, I plan to continue on this upward trajectory to make a leap into the field of tech!
 Check out my journey here on my GitHub profile :) Feel free to get in touch via Twitter / LinkedIn!** ☺
 
+## Currently working on
+**Nandoku** Difficult Japanese Kanji reading quiz game - a full stack web app to get scored on your reading of Japanese/Chinese characters
+**Vancation** Log your best campervan parking spots - a full stack app with Google maps API to discover & mark overnight parking spots
+**Cryptomania** Track the trending cryptocurrency coins - A single page site pulling from an API to view current data on Bitcoin, ETH, etc.
+Practising and learning new technologies :) 
 
 ## 💻 Technologies & skills
 
