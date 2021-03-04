@@ -52,10 +52,10 @@ Others - OOP Object Oriented Programming, Web sockets
 - Solidity (Ethereum smart contract)
 - Wordpress custom templates (general structure and PHP)
 - How to write clean code
-- **Would LOVE to learn:** Ruby, C#, Java, React Native
+- **Would love to learn:** Ruby, C#, Java, React Native
 
 ## 💬 Ask me about 
-**My team's final project EngageMate ➡ https://engagemate.netlify.app/**
+- **My team's final project EngageMate ➡ https://engagemate.netlify.app/**
 - My side project Nandoku Kanji test quiz ➡ https://nandoku.netlify.app/
 - Why I made the big switch to tech
 - Life in Japan, Korea, India, around Europe
