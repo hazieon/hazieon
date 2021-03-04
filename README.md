@@ -55,7 +55,7 @@ Others - OOP Object Oriented Programming, Web sockets
 - **Would LOVE to learn:** Ruby, C#, Java, React Native
 
 ## 💬 Ask me about 
-- **My team's final project EngageMate ➡ https://engagemate.netlify.app/ **
+**My team's final project EngageMate ➡ https://engagemate.netlify.app/**
 - My side project Nandoku Kanji test quiz ➡ https://nandoku.netlify.app/
 - Why I made the big switch to tech
 - Life in Japan, Korea, India, around Europe
