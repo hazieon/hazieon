@@ -41,7 +41,7 @@ A single page site pulling from an API to view current data on Bitcoin, ETH, etc
 **OTHER -**
 Testing - Jest, Cypress
 Agile - Trello, Jira
-UX/UI design - Figma, Adobe Photoshop, 
+UX/UI design - Figma, Adobe Photoshop.  
 Others - OOP Object Oriented Programming, Web sockets
 
 
