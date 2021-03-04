@@ -46,11 +46,11 @@ Others - OOP Object Oriented Programming, Web sockets
 
 
 ## 📚 Currently Learning ...
-- **Lots of practice of the above skills and technologies!!**
+- **Lots of practice of the above skills and technologies!**
 - MongoDB
 - React Native
-- Solidity (Ethereum smart contract)
-- Wordpress custom templates (general structure and PHP)
+- Coding on blockchain 
+- Wordpress custom templates (using JavaScript and PHP)
 - How to write clean code
 - **Would love to learn:** Ruby, C#, Java, React Native
 
