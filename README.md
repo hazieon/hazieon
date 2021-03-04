@@ -38,7 +38,7 @@ A single page site pulling from an API to view current data on Bitcoin, ETH, etc
 |            |   Docker  | 
 |            |   CI/CD  | 
 
-**OTHER - **
+**OTHER -**
 Testing - Jest, Cypress
 Agile - Trello, Jira
 UX/UI design - Figma, Adobe Photoshop, 
