@@ -19,30 +19,13 @@ Check out my journey here on my GitHub profile :) Feel free to get in touch via 
 A single page site pulling from an API to view current data on Bitcoin, ETH, etc.
 - Practising and learning new technologies :) 
 
-## 💻 Technologies & skills
+## 💻 Technologies & tools
 
-| **Type**  | **Technology**  |             
-| ----------- | ----------- | 
-| **Front End** | HTML |   
-|          | CSS |    
-|          | JavaScript (ES6)|  
-|          | React.js |    
+<img src="https://www.flaticon.com/svg/vstatic/svg/226/226269.svg?token=exp=1615211606~hmac=81462f9ff1afa7ad81ffb50e175527d4" height="40" width="40" alt="HTML5"/><img src="https://www.flaticon.com/svg/vstatic/svg/732/732190.svg?token=exp=1615211711~hmac=617181b8db551123dd7f5bbb3554cf55" height="40" width="40" alt="CSS6"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/480px-JavaScript-logo.png" height="40" width="40" alt="JavaScript"/><img src="https://www.pngitem.com/pimgs/m/664-6644509_icon-react-js-logo-hd-png-download.png" height="40" width="40" alt="React.js"/><img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" height="40" width="50" alt="Node.js"/><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png" height="40" width="45" alt="PostgreSQL"/>
 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX1D46-3kuBgM4AItLzmvYaBslTa0DbacWHg&usqp=CAU" height="40" width="30" alt="Heroku"/><img src="https://mk0futurumreseabr7pm.kinstacdn.com/wp-content/uploads/2020/01/aws-logo.png" height="40" width="50" alt="AWS"/><img src="https://www.docker.com/sites/default/files/social/docker_facebook_share.png" height="40" width="45" alt="Docker"/><img src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" height="40" width="40" alt="Jest"/><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" height="40" width="40" alt="Socket.io"/>
 
-| **Type** | **Description** |
-| ----------- | ----------- |
-  | **Back End** | Node.js |
-|            | PostgreSQL| 
-|            |   Heroku  | 
-| **Other** |   AWS  | 
-|            |   Docker  | 
-|            |   CI/CD  | 
-
-**OTHER -**
-Testing - Jest, Cypress
-Agile - Trello, Jira
-UX/UI design - Figma, Adobe Photoshop.  
-Others - OOP Object Oriented Programming, Web sockets
+<img src="https://www.forecast.app/hubfs/New%20Website%20/integrations-logos/trello-logo.png" height="40" width="40" alt="Trello"/><img src="https://zulipchat.com/static/images/integrations/logos/jira.svg" height="40" width="40" alt="Jira"/><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" height="45" width="40" alt="Figma"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" height="40" width="40" alt="Photoshop"/>
 
 
 ## 📚 Currently Learning ...
