@@ -49,7 +49,7 @@ A single page site pulling from an API to view current data on Bitcoin, ETH, etc
 - Languages! (Coding and Human languages!) Japanese, Korean, Chinese, German
 - Taekwondo!
 - Flute & Piano!
-- Creating picture books (published)!
+- Creating picture books (published)
 - Photography & Photo books!
 - Explore! Learn! Adventure!
 
