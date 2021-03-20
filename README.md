@@ -46,12 +46,14 @@ A single page site pulling from an API to view current data on Bitcoin, ETH, etc
 ![EngageMate](https://i.imgur.com/d6hqAmy.png?1)
 
 ## 🌎 Other interests
-- Languages! (Coding and Human languages!) Japanese, Korean, Chinese, German
-- Taekwondo!
-- Flute & Piano!
-- Creating picture books (published)
-- Photography & Photo books!
-- Explore! Learn! Adventure!
+- Languages (Human languages too!) Japanese, Korean, Chinese, German
+- Taekwondo, ice skating, cycling
+- Flute & Piano
+- Creating picture books 
+- Photography & Photo books
+- Explore, Learn, Adventure!
+
+Working to prevent climate change is very important to me 🍃 
 
 <!--
 **hazieon/hazieon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
