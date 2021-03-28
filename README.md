@@ -11,6 +11,7 @@ This inspired me to start a new adventure with code and continue to broaden my h
 Check out my journey here on my GitHub profile :) Feel free to get in touch via Twitter / LinkedIn!** ☺
 
 ## Currently working on
+- Rebuilding a Wordpress shop with Liquid Shopify eCommerce platform. 
 - **Nandoku 難読漢字** Difficult Japanese Kanji reading quiz game:     
  a full stack web app to get scored on your reading of Japanese/Chinese characters
 - **Vancation** Log your best campervan parking spots:     
