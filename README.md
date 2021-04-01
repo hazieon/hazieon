@@ -1,22 +1,22 @@
 ### Hello World! 你好！ こんにちは！ 안녕하세요! Willkommen! 👋
 
-☺ Since finishing studying Psychology at University, I had been teaching English abroad, aiming to inspire individuals and challenge my world perspective. I immersed myself in the culture and languages of in Japan, Korea and India. 
+☺ Since finishing studying Psychology at University, I had been teaching English abroad. I immersed myself in the culture and languages of in Japan, Korea and India. 
+**However, along the way, I met programmers around the world who showed me how, through solving real world problems, tech can have a global impact**.
 
-**However, along the way, I met programmers around the world who showed me how creative coding can be. 
-I discovered that, through solving real world problems, tech can have a global impact**.
-
-I joined the School of Code's intensive, full time bootcamp which was a push into the deep end of different technologies and core soft skills through Agile workflow and pair programming. 
-
+I joined the School of Code's intensive, full time bootcamp! This was a push into the deep end of different technologies & core soft skills through Agile workflow and pair programming. 
 **With this valuable experience under my belt, I plan to continue on this upward trajectory to make a leap into the field of tech!
+
 Check out my journey here on my GitHub profile :) Feel free to get in touch via Twitter / LinkedIn!** ☺
 
 ## Currently working on
 - Rebuilding a Wordpress shop with **Liquid Shopify eCommerce platform**. 
-- **Nandoku 難読漢字** Difficult Japanese Kanji reading quiz game:     
+- **<a href="https://nandoku.netlify.app">**Nandoku**</a> 難読漢字** Difficult Japanese Kanji reading quiz game:  
  a full stack web app to get scored on your reading of Japanese/Chinese characters
-- **Vancation** Log your best campervan parking spots:     
+- **<a href="https://vancation.netlify.app">**Vancation**</a>** Log your best campervan parking spots:     
  a full stack app with Google maps API to discover & mark overnight parking spots
-- **Cryptomania** Track the trending cryptocurrency coins:      
+- **<a href="https://polyhedra-machine.netlify.app/">**Polyhedra Machine**</a>** A multiple dice rolling app for tabletop games:      
+ Roll several types of dice concurrently, all in one place. from d6, to d10, to d120!
+- **<a href="https://cryptomaniaa.netlify.app">**Cryptomania**</a>** Track the trending cryptocurrency coins:      
 A single page site pulling from an API to view current data on Bitcoin, ETH, etc.
 - Practising and learning new technologies :) 
 
@@ -40,6 +40,7 @@ A single page site pulling from an API to view current data on Bitcoin, ETH, etc
 ## 💬 Ask me about 
 - **My team's final project EngageMate ➡ https://engagemate.netlify.app/**
 - My side project Nandoku Kanji test quiz ➡ https://nandoku.netlify.app/
+- My vanlife campervan map app - https://vancation.netlify.app
 - Why I made the big switch to tech
 - Life in Japan, Korea, India, around Europe
 
