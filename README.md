@@ -1,17 +1,17 @@
 ### Hello World! 你好！ こんにちは！ 안녕하세요! Willkommen! 👋
 
-☺ Since finishing studying Psychology at University, I have been teaching English abroad, aiming to inspire individuals and challenge my world perspective. I immersed myself in the culture and languages of in Japan, Korea and India. 
+☺ Since finishing studying Psychology at University, I had been teaching English abroad, aiming to inspire individuals and challenge my world perspective. I immersed myself in the culture and languages of in Japan, Korea and India. 
 
 **However, along the way, I met programmers around the world who showed me how creative coding can be. 
 I discovered that, through solving real world problems, tech can have a global impact**.
 
-This inspired me to start a new adventure with code and continue to broaden my horizons. I joined the School of Code's intensive, full time bootcamp which was a push into the deep end of different technologies and core soft skills through Agile workflow and pair programming. 
+I joined the School of Code's intensive, full time bootcamp which was a push into the deep end of different technologies and core soft skills through Agile workflow and pair programming. 
 
-**With this valuable experience and knowledge under my belt, I plan to continue on this upward trajectory to make a leap into the field of tech!
+**With this valuable experience under my belt, I plan to continue on this upward trajectory to make a leap into the field of tech!
 Check out my journey here on my GitHub profile :) Feel free to get in touch via Twitter / LinkedIn!** ☺
 
 ## Currently working on
-- Rebuilding a Wordpress shop with Liquid Shopify eCommerce platform. 
+- Rebuilding a Wordpress shop with **Liquid Shopify eCommerce platform**. 
 - **Nandoku 難読漢字** Difficult Japanese Kanji reading quiz game:     
  a full stack web app to get scored on your reading of Japanese/Chinese characters
 - **Vancation** Log your best campervan parking spots:     
@@ -32,8 +32,7 @@ A single page site pulling from an API to view current data on Bitcoin, ETH, etc
 ## 📚 Currently Learning ...
 - **Lots of practice of the above skills and technologies!**
 - MongoDB
-- React Native
-- Coding on blockchain 
+- Liquid
 - Wordpress custom templates (using JavaScript and PHP)
 - How to write clean code
 - **Would love to learn:** Ruby, C#, Java, React Native
