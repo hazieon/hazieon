@@ -1,7 +1,8 @@
 ### Hello World! 你好！ こんにちは！ 안녕하세요! Willkommen! 👋
 
-☺ Since finishing studying Psychology at University, I had been teaching English abroad. I immersed myself in the culture and languages of in Japan, Korea and India.       
-**However, along the way, I met programmers around the world who showed me how, through solving real world problems, tech can have a global impact**.
+☺ Since finishing studying Psychology at University, I had been teaching English abroad.  
+I immersed myself in the culture and languages of in Japan, Korea and India.         
+**Along the way, I met programmers around the world who showed me how tech can solve real world problems & have a global impact.**
 
 I joined the School of Code's intensive, full time bootcamp! This was a push into the deep end of different technologies & core soft skills through Agile workflow and pair programming. 
 **With this valuable experience under my belt, I plan to continue on this upward trajectory to make a leap into the field of tech!**
