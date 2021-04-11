@@ -30,6 +30,7 @@ I joined the School of Code's intensive, full time bootcamp! This was a push int
 A single page site pulling from an API to view current data on Bitcoin, ETH, etc.
 - Practising and learning new technologies :) 
 
+            
 - Regularly attending **Codebar**,
 - Registered for **Athena Hack 2021**,
 - Researching and learning via **Udemy courses** 
