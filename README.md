@@ -18,7 +18,8 @@ I joined the School of Code's intensive, full time bootcamp! This was a push int
 <img src="https://www.forecast.app/hubfs/New%20Website%20/integrations-logos/trello-logo.png" height="40" width="40" alt="Trello"/><img src="https://zulipchat.com/static/images/integrations/logos/jira.svg" height="40" width="40" alt="Jira"/><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" height="45" width="40" alt="Figma"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" height="40" width="40" alt="Photoshop"/>
 
 ## Currently working on
-- Rebuilding a Wordpress shop with **Liquid Shopify eCommerce platform**. 
+- **<a href="https://welovepurely.com">**Purely Plantain**</a> **Liquid Shopify eCommerce platform**      
+ Rebuilt a Wordpress shop with Shopify using Liquid template language (written in Ruby). Team project.    
 - **<a href="https://nandoku.netlify.app">**Nandoku**</a> 難読漢字** Difficult Japanese Kanji reading quiz game:  
  a full stack web app to get scored on your reading of Japanese/Chinese characters
 - **<a href="https://vancation.netlify.app">**Vancation**</a>** Log your best campervan parking spots:     
@@ -29,7 +30,9 @@ I joined the School of Code's intensive, full time bootcamp! This was a push int
 A single page site pulling from an API to view current data on Bitcoin, ETH, etc.
 - Practising and learning new technologies :) 
 
-**I also enjoy attending weekly Codebar workshops to work on and practise building projects with guidance from professionals.**
+- Regularly attending **Codebar**,
+- Registered for **Athena Hack 2021**,
+- Researching and learning via **Udemy courses** 
 
 ## 📚 Currently Learning ...
 - **Lots of practice of the above skills and technologies!**
