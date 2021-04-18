@@ -18,6 +18,8 @@ I joined the School of Code's intensive, full time bootcamp! This was a push int
 <img src="https://www.forecast.app/hubfs/New%20Website%20/integrations-logos/trello-logo.png" height="40" width="40" alt="Trello"/><img src="https://zulipchat.com/static/images/integrations/logos/jira.svg" height="40" width="40" alt="Jira"/><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" height="45" width="40" alt="Figma"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" height="40" width="40" alt="Photoshop"/>
 
 ## Currently working on
+- **<a href="https://rentaru.netlify.app">**Rentaru**</a>** Athena Hackathon 2021 team entry:   
+Rent tools or equipment from local peers, or rent our your own electricals to reduce landfill waste.
 - **<a href="https://welovepurely.com">**Purely Plantain Chips Online Shop**</a>** Shopify eCommerce site:      
  Rebuilt a Wordpress shop with Shopify using Liquid template language (written in Ruby). Team project.    
 - **<a href="https://nandoku.netlify.app">**Nandoku**</a> 難読漢字** Difficult Japanese Kanji reading quiz game:  
@@ -32,7 +34,7 @@ A single page site pulling from an API to view current data on Bitcoin, ETH, etc
 
             
 - Regularly attending **Codebar**,
-- Registered for **Athena Hack 2021**,
+- Participated in **Athena Hack 2021**. See the repo <a href="https://github.com/hazieon/rentaru">here</a>!,
 - Researching and learning via **Udemy courses** 
 
 ## 📚 Currently Learning ...
