@@ -18,7 +18,7 @@ I joined the School of Code's intensive, full time bootcamp! This was a push int
 <img src="https://www.forecast.app/hubfs/New%20Website%20/integrations-logos/trello-logo.png" height="40" width="40" alt="Trello"/><img src="https://zulipchat.com/static/images/integrations/logos/jira.svg" height="40" width="40" alt="Jira"/><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" height="45" width="40" alt="Figma"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" height="40" width="40" alt="Photoshop"/>
 
 ## Currently working on
--**Hitchhike Hazie** - Travel blog & portfolio site.     
+- **Hitchhike Hazie** - Travel blog & portfolio site.     
 React-built photo gallery, project portfolio and blog website to document my travels, skills and other creative endeavours.    
 - **<a href="https://rentaru.netlify.app">**Rentaru**</a>** Athena Hackathon 2021 team entry:   
 Rent tools or equipment from local peers, or rent our your own electricals to reduce landfill waste.
