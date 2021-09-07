@@ -47,10 +47,7 @@ A single page site pulling from an API to view current data on Bitcoin, ETH, etc
 ## 📚 Currently Learning ...
 - **Lots of practice of the above skills and technologies!**
 - MongoDB
-- Liquid
-- Wordpress custom templates (using JavaScript and PHP)
-- How to write clean code
-- **Would love to learn:** Ruby, C#, Java, React Native
+- **Would love to learn:** Ruby, Python, C#, React Native
 
 ## 💬 Ask me about 
 - **My team's final project EngageMate ➡ https://engagemate.netlify.app/**
