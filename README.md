@@ -22,7 +22,8 @@ I joined the School of Code's intensive, full time bootcamp! This was a push int
  
  
 ## Currently working on
-- **<a href="https://www.columba.uk/">**Columba**</a>** Working on building a marketplace site at Columba UK.      
+- **<a href="https://www.swift.columba.uk/">**Columba Swift **</a>** Marketplace tool to search marketing agencies, at Columba UK.   
+- **<a href="https://www.columba.uk/">**Columba**</a>** Headless CMS Next.js company site at Columba UK.    
 - **<a href="https://hitchhikehazie.netlify.app/ ">**Hitchhike Hazie**</a>** Travel blog & portfolio site.   
 React-built photo gallery, project portfolio and blog website to document my travels, skills and other creative endeavours. 
 - **<a href="https://rentaru.netlify.app">**Rentaru**</a>** Athena Hackathon 2021 team entry:   
