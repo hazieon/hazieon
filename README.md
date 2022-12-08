@@ -22,7 +22,7 @@ I joined the School of Code's intensive, full time bootcamp! This was a push int
  
  
 ## Currently working on
-- **<a href="https://www.swift.columba.uk/">**Columba Swift**</a>** Marketplace tool to search marketing agencies, at Columba UK.   
+- **<a href="https://hurdle.bio/">**Hurdle**</a>** Working with Hurdle to provide & maintain a Diagnostics as a Service bio-infrastructure platform. 
 - **<a href="https://www.columba.uk/">**Columba**</a>** Headless CMS Next.js company site at Columba UK.    
 - **<a href="https://hitchhikehazie.netlify.app/ ">**Hitchhike Hazie**</a>** Travel blog & portfolio site.   
 React-built photo gallery, project portfolio and blog website to document my travels, skills and other creative endeavours. 
@@ -62,7 +62,7 @@ A single page site pulling from an API to view current data on Bitcoin, ETH, etc
 ## 🌎 Other interests
 - Languages (Human languages too!) Japanese, Korean, Chinese, German
 - Taekwondo, ice skating, cycling
-- Flute & Piano
+- AI art
 - Photography, Photo books, drawing picture books
 - Explore, Learn, Adventure!
 
