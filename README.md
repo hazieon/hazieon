@@ -5,9 +5,12 @@ I immersed myself in the culture and languages of in Japan, Korea and India.
 **Along the way, I met programmers around the world who showed me how tech can solve real world problems & have a global impact.**
 
 I joined the School of Code's intensive, full time bootcamp! This was a push into the deep end of different technologies & core soft skills through Agile workflow and pair programming. 
-**With this valuable experience under my belt, I plan to continue on this upward trajectory to make a leap into the field of tech!**
+**With this valuable experience under my belt, I plan to continue on this upward trajectory to make a leap into the field of tech.**
+I have since been working as a software developer for **over 2 years** in tech teams solving real world problems!
 
-**Check out my journey here on my GitHub profile :) Feel free to get in touch via Twitter / LinkedIn!** ☺
+**Check out my journey here on my GitHub profile :) Feel free to get in touch on LinkedIn!** ☺
+
+currently OPEN TO WORK 💻✨
 
 ## 💻 Technologies & tools
 
@@ -22,8 +25,10 @@ I joined the School of Code's intensive, full time bootcamp! This was a push int
  
  
 ## Currently working on
-- **<a href="https://hurdle.bio/">**Hurdle**</a>** Working with Hurdle to provide & maintain a Diagnostics as a Service bio-infrastructure platform. 
-- **<a href="https://www.columba.uk/">**Columba**</a>** Headless CMS Next.js company site at Columba UK.    
+- **<a href="https://acbiode.com">**AC Biode**</a>** Working with AC Biode to create a website to introduce their environmental products.     
+- **<a href="https://hurdle.bio/">**Hurdle**</a>** Worked with Hurdle to provide & maintain a Diagnostics as a Service bio-infrastructure platform. 
+- **<a href="https://www.columba.uk/">**Columba**</a>** Headless CMS Next.js company site at Columba UK.
+- 
 - **<a href="https://hitchhikehazie.netlify.app/ ">**Hitchhike Hazie**</a>** Travel blog & portfolio site.   
 React-built photo gallery, project portfolio and blog website to document my travels, skills and other creative endeavours. 
 - **<a href="https://rentaru.netlify.app">**Rentaru**</a>** Athena Hackathon 2021 team entry:   
@@ -40,18 +45,14 @@ Rent tools or equipment from local peers, or rent our your own electricals to re
 A single page site pulling from an API to view current data on Bitcoin, ETH, etc.
 
 
-            
-- Regularly attending **Codebar**,
-- Participated in **Athena Hack 2021**. See the repo <a href="https://github.com/hazieon/rentaru">here</a>!,
-- Researching and learning via **Udemy courses** 
-
+  
 ## 📚 Currently Learning ...
 - **Lots of practice of the above skills and technologies!**
 - MongoDB
-- **Would love to learn:** Ruby, Python, C#, React Native
+- **Would love to learn:** Mobile app development    
 
 ## 💬 Ask me about 
-- **My team's final project EngageMate ➡ https://engagemate.netlify.app/**
+- **My team's final project at School of Code EngageMate ➡ https://engagemate.netlify.app/**
 - My side project Nandoku Kanji test quiz ➡ https://nandoku.netlify.app/
 - My vanlife campervan map app - https://vancation.netlify.app
 - Why I made the big switch to tech
@@ -61,9 +62,10 @@ A single page site pulling from an API to view current data on Bitcoin, ETH, etc
 
 ## 🌎 Other interests
 - Languages (Human languages too!) Japanese, Korean, Chinese, German
-- Taekwondo, ice skating, cycling
-- AI art
-- Photography, Photo books, drawing picture books
+- Taekwondo & Yoga
+- Publishing picture books 
+- Printing photo books
+- Travelling the world
 - Explore, Learn, Adventure!
 
 Working to prevent climate change is very important to me 🍃 
