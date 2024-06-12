@@ -1,16 +1,15 @@
-### Hello World! 你好！ こんにちは！ 안녕하세요! Willkommen! 👋
+### Hello World! こんにちは！ 안녕하세요! 你好！ Willkommen! 👋
 
-☺ Since finishing studying Psychology at University, I had been teaching English abroad.  
-I immersed myself in the culture and languages of in Japan, Korea and India.         
-**Along the way, I met programmers around the world who showed me how tech can solve real world problems & have a global impact.**
+I have **over 2 years** practical experience working in tech teams to solve real world problems.  
+As a software developer in start up companies, I contribute across the business to the planning, design, code, deployment and maintenance of products.  
+I enjoy utilising tech to change the world 🌎
 
-I joined the School of Code's intensive, full time bootcamp! This was a push into the deep end of different technologies & core soft skills through Agile workflow and pair programming. 
-**With this valuable experience under my belt, I plan to continue on this upward trajectory to make a leap into the field of tech.**
-I have since been working as a software developer for **over 2 years** in tech teams solving real world problems!
+**BSc Psychology with International Studies [University of Nottingham, UK and Waseda University, Japan]     
+MSc Cognitive Systems (Artificial Intelligence & Psychology) [University of Cyprus]**
 
-**Check out my journey here on my GitHub profile :) Feel free to get in touch on LinkedIn!** ☺
+currently ✨OPEN TO WORK✨ 💻✨
+I'm looking for a meaningful project to contribute my diverse skills and experience.
 
-currently OPEN TO WORK 💻✨
 
 ## 💻 Technologies & tools
 
@@ -24,51 +23,47 @@ currently OPEN TO WORK 💻✨
 
  
  
-## Currently working on
+## PAST EMPLOYMENT PROJECTS 
 - **<a href="https://acbiode.com">**AC Biode**</a>** Working with AC Biode to create a website to introduce their environmental products.     
-- **<a href="https://hurdle.bio/">**Hurdle**</a>** Worked with Hurdle to provide & maintain a Diagnostics as a Service bio-infrastructure platform. 
-- **<a href="https://www.columba.uk/">**Columba**</a>** Headless CMS Next.js company site at Columba UK.
-- 
-- **<a href="https://hitchhikehazie.netlify.app/ ">**Hitchhike Hazie**</a>** Travel blog & portfolio site.   
-React-built photo gallery, project portfolio and blog website to document my travels, skills and other creative endeavours. 
+- **<a href="https://hurdle.bio/">**Hurdle**</a>** Worked at Hurdle to provide & maintain a Diagnostics as a Service bio-infrastructure platform. 
+- **<a href="https://www.columba.uk/">**Columba**</a>** Headless CMS Next.js company site and marketplace SaaS tool at Columba UK.
+
+## PERSONAL PROJECTS 
+- **<a href="https://welovepurely.com">**Purely Plantain Chips Online Shop**</a>** Shopify eCommerce site:      
+ Rebuilt a Wordpress shop with Shopify using Liquid template language (written in Ruby). Team project.
+
 - **<a href="https://rentaru.netlify.app">**Rentaru**</a>** Athena Hackathon 2021 team entry:   
 Rent tools or equipment from local peers, or rent our your own electricals to reduce landfill waste.
-- **<a href="https://welovepurely.com">**Purely Plantain Chips Online Shop**</a>** Shopify eCommerce site:      
- Rebuilt a Wordpress shop with Shopify using Liquid template language (written in Ruby). Team project.    
-- **<a href="https://nandoku.netlify.app">**Nandoku**</a> 難読漢字** Difficult Japanese Kanji reading quiz game:  
- a full stack web app to get scored on your reading of Japanese/Chinese characters
-- **<a href="https://vancation.netlify.app">**Vancation**</a>** Log your best campervan parking spots:     
- a full stack app with Google maps API to discover & mark overnight parking spots
-- **<a href="https://polyhedra-machine.netlify.app/">**Polyhedra Machine**</a>** A multiple dice rolling app for tabletop games:      
- Roll several types of dice concurrently, all in one place. from d6, to d10, to d120!
+
 - **<a href="https://cryptomaniaa.netlify.app">**Cryptomania**</a>** Track the trending cryptocurrency coins:      
 A single page site pulling from an API to view current data on Bitcoin, ETH, etc.
 
+- **<a href="https://nandoku.netlify.app">**Nandoku**</a> 難読漢字** Difficult Japanese Kanji reading quiz game:  
+ a full stack web app to get scored on your reading of difficult Japanese/Chinese characters
 
-  
+- **<a href="https://hitchhikehazie.netlify.app/ ">**Hitchhike Hazie**</a>** Travel blog & creative portfolio site.   
+React-built photo gallery, project portfolio and blog website to document my travels, skills and other creative endeavours.
+
+
 ## 📚 Currently Learning ...
-- **Lots of practice of the above skills and technologies!**
-- MongoDB
-- **Would love to learn:** Mobile app development    
+- A.I through my MSc Masters degree 🎓
+- Mobile App development 📱
+- Python 🐍
 
 ## 💬 Ask me about 
-- **My team's final project at School of Code EngageMate ➡ https://engagemate.netlify.app/**
-- My side project Nandoku Kanji test quiz ➡ https://nandoku.netlify.app/
-- My vanlife campervan map app - https://vancation.netlify.app
-- Why I made the big switch to tech
-- Life in Japan, Korea, India, around Europe
-
-![EngageMate](https://i.imgur.com/d6hqAmy.png?1)
+- My MSc degree in Cognitive Systems
+- My team project at School of Code - EngageMate ➡ https://engagemate.netlify.app/
+- Life in Japan, Korea, Taiwan, India, and around Europe
 
 ## 🌎 Other interests
-- Languages (Human languages too!) Japanese, Korean, Chinese, German
-- Taekwondo & Yoga
-- Publishing picture books 
-- Printing photo books
-- Travelling the world
-- Explore, Learn, Adventure!
+- Languages (Human languages too!) Japanese, Korean, Traditional Chinese, German
+- Publishing picture books [https://www.amazon.co.uk/Lonely-Moongirl-Hazie/dp/1699887489]
+- Taekwondo & Yoga (I'm a certified yoga instructor!)
+- Hitchhiking 
+--> Explore, Learn, Adventure!
 
-Working to prevent climate change is very important to me 🍃 
+🌎 Working to prevent climate change is very important to me 🍃 
+Vegetarian, cycling to work, low waste lifestyle 
 
 <!--
 **hazieon/hazieon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
